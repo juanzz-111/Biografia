@@ -1,0 +1,22 @@
+header{
+    background-color: rgb(255, 218, 94);
+    padding: 40px;
+}
+header h1{
+    text-align: center;
+}
+article a{
+    text-decoration: none;
+}
+article{
+    text-align: center;
+}
+body{
+    margin: 0%;
+    background-color: rgb(253, 255, 136);
+}
+ol{
+    background-color: aliceblue;
+    border-radius: 30px;
+    width: 120px; height: 80px;
+}
